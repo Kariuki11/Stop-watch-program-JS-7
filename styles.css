@@ -2,7 +2,7 @@ body{
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-color: hsla(249, 100%, 11%, 0.308);
+    background-color: red
 }
 #myH1{
     font-size: 4rem;
